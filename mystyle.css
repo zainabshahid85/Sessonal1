@@ -127,7 +127,46 @@ overflow: hidden;
         color: goldenrod;
         background-color: lawngreen;
         width: 270px; 
-        margin-left: 40px;
+        margin-left: 25px;
           
      }
-     
+     .content-wrapper{
+       width: 200%;
+       position: relative;
+
+     }
+     .content-wrapper img{
+       width: 20px;
+     }
+     .text-wrapper
+     {
+       width: 20%;
+       position: relative;
+     }
+     .head4{
+      color: goldenrod;
+      background-color: lawngreen;
+      width: 160px; ;
+      margin-left: 40px;
+      font-size: 50px;
+     }
+     .head5{
+      color: goldenrod;
+      background-color: lawngreen;
+      width: 200px; ;
+      margin-left: 100px;
+      font-size: 50px;
+      text-align: center;
+  
+     }
+     p{
+       font-size: 150%;
+       color: gray;
+     }
+     h1{
+       color: blueviolet;
+     }
+     h2{
+       font-size: 400%;
+       color: darkgreen;
+     }
